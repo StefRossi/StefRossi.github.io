@@ -14,7 +14,7 @@ I obtained my PhD in Mathematics at the [Department of Mathematics "Guido Castel
 
 My research interests lie in the area of the Analysis of PDEs, where I am mainly interested in Kinetic Theory topics, particularly in stability and validity problems for mean-field equations.
 
-[Here]() you can find my CV. My email address is stefano.rossi@math.ethz.ch
+[Here](https://stefrossi.github.io/files/CV_Rossi_Stefano.pdf) you can find my CV. My email address is stefano.rossi@math.ethz.ch
 
 Publications and preprints 
 ======
