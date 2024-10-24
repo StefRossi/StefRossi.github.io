@@ -12,7 +12,11 @@ In the academic year 2023-24, I was a postdoc at the [Institute of Mathematics](
 
 I obtained my PhD in Mathematics at the [Department of Mathematics "Guido Castelnuovo"](https://www.mat.uniroma1.it/en) of [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) in May 2023, under the supervision of [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/) and [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/Home). 
 
-A data-driven personal website
+My research interests lie in the area of the Analysis of PDEs, where I am mainly interested in Kinetic Theory topics, particularly in stability and validity problems for mean-field equations.
+
+[Here]() you can find my CV. My email address is stefano.rossi@math.ethz.ch
+
+Publications and preprints 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
