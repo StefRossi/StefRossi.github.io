@@ -18,6 +18,24 @@ My research interests lie in the area of the Analysis of PDEs, where I am mainly
 
 Publications and preprints 
 ======
+
+1. M. Iacobelli, S. Rossi, K. Widmayer, [On the stability of vacuum in the screened
+Vlasov-Poisson equation](https://arxiv.org/abs/2410.17978), arXiv:2410.17978 (2024).
+1. D. Benedetto, E. Caglioti, A. Gagnebin, M. Iacobelli, S. Rossi, [Scattering problem
+for Vlasov-type equations on the d-dimensional torus with Gevrey data](https://arxiv.org/abs/2405.10182),
+arXiv:2405.10182, (2024).
+1. D. Benedetto, T. Paul, S. Rossi, [Propagation of chaos and hydrodynamic description for topological models](https://www.aimsciences.org/article/doi/10.3934/krm.2024010), Kinetic and Related models, Doi:
+10.3934/krm.2024010, (2024).
+1. P. Degond, M. Pulvirenti, S. Rossi, [Propagation of chaos for topological interactions by a coupling technique](https://ems.press/journals/rlm/articles/13341435), Rendiconti Lincei. Matematica e applicazioni,
+Vol. 34, No. 3, 641–655, (2023).
+1. D. Benedetto, E. Caglioti, S. Rossi, [Comparison between the Cauchy problem
+and the scattering problem for the Landau damping in the Vlasov HMF
+equation](https://content.iospress.com/articles/asymptotic-analysis/asy211726), Asymptotic Analysis, Vol. 129, No. 2, 215–238, (2022).
+1. D. Benedetto, E. Caglioti, S. Rossi, [Mean-field limit for particle-systems with
+topological interactions](https://msp.org/memocs/2021/9-4/memocs-v9-n4-p05-s.pdf), Mathematics and Mechanics of Complex Systems, Vol. 9,
+No. 4, 423–440, (2021).
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
