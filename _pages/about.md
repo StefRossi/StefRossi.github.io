@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research in Mathematical Physics at the [Department of Mathematics](https://math.ethz.ch/) of [ETH Zurich](https://ethz.ch/de.html) under the supervision of [Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/home).
+I am currently a postdoctoral researcher in Mathematical Physics at the [Department of Mathematics](https://math.ethz.ch/) of [ETH Zurich](https://ethz.ch/de.html) under the supervision of [Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/home).
 In the academic year 2023-24, I was a postdoc at the [Institute of Mathematics](https://www.math.uzh.ch/en/home) of the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of [Klaus Widmayer](https://www.math.uzh.ch/en/people?semId=43&key1=32674&L=1).
 I obtained my PhD at the [Department of Mathematics "Guido Castelnuovo"](https://www.mat.uniroma1.it/en) of [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) under the supervision of [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/) and [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/Home). 
 
