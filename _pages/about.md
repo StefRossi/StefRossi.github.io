@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a postdoctoral research in Mathematical Physics at the [Department of Mathematics](https://math.ethz.ch/) of [ETH Zurich](https://ethz.ch/de.html) under the supervision of [Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/home).
+In the academic year 2023-24, I was a postdoc at the [Institute of Mathematics](https://www.math.uzh.ch/en/home) of the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of [Klaus Widmayer](https://www.math.uzh.ch/en/people?semId=43&key1=32674&L=1).
+I obtained my PhD at the [Department of Mathematics "Guido Castelnuovo"](https://www.mat.uniroma1.it/en) of [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home) under the supervision of [Dario Benedetto](http://brazil.mat.uniroma1.it/dario/) and [Emanuele Caglioti](https://sites.google.com/site/ecaglioti/Home). 
 
 A data-driven personal website
 ======
