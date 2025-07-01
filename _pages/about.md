@@ -21,19 +21,14 @@ Publications and preprints
 
 
 1. A. Gagnebin, M. Iacobelli, A. Rege, S. Rossi, [From relativistic Vlasov-Maxwell to electron-MHD in the quasineutral regime](https://arxiv.org/abs/2505.11428), arXiv:2505.11428 (2025).
-1. M. Menci, T. Paul, S. Rossi, T. Tenna, [Numerical modeling of flocking dynamics with topological interactions
-](https://arxiv.org/abs/2503.12980), arXiv:2503.12980 (2025).
-1. T. Paul, S. Rossi, E. Trélat, [Multi-agent systems with multiple-wise interaction: Propagation of chaos and macroscopic limit
-](https://arxiv.org/abs/2502.09098), arXiv:2502.09098 (2025).
-1. M. Menci, T. Paul, S. Rossi, [Propagation of chaos for topological models without regularity
-](https://hal.science/hal-04855448v2), hal-04855448 (2024).
+1. M. Menci, T. Paul, S. Rossi, T. Tenna, [Numerical modeling of flocking dynamics with topological interactions](https://arxiv.org/abs/2503.12980), arXiv:2503.12980 (2025).
+1. T. Paul, S. Rossi, E. Trélat, [Multi-agent systems with multiple-wise interaction: Propagation of chaos and macroscopic limit](https://arxiv.org/abs/2502.09098), arXiv:2502.09098 (2025).
 1. M. Iacobelli, S. Rossi, K. Widmayer, [On the stability of vacuum in the screened
 Vlasov-Poisson equation](https://arxiv.org/abs/2410.17978), arXiv:2410.17978 (2024).
+1. M. Menci, T. Paul, S. Rossi, [Propagation of chaos for topological models without regularity](https://hal.science/hal-04855448v2), to appear on the EMS Series of Congress Reports (2025).
 1. D. Benedetto, E. Caglioti, A. Gagnebin, M. Iacobelli, S. Rossi, [Scattering problem
-for Vlasov-type equations on the d-dimensional torus with Gevrey data](https://arxiv.org/abs/2405.10182),
-arXiv:2405.10182, (2024).
-1. D. Benedetto, T. Paul, S. Rossi, [Propagation of chaos and hydrodynamic description for topological models](https://www.aimsciences.org/article/doi/10.3934/krm.2024010), Kinetic and Related models, Doi:
-10.3934/krm.2024010, (2024).
+for Vlasov-type equations on the d-dimensional torus with Gevrey data](https://ems.press/journals/aihpc/articles/14298910), Ann. Inst. H. Poincaré C Anal. Non Linéaire, published online first, doi 10.4171/AIHPC/159 (2025).
+1. D. Benedetto, T. Paul, S. Rossi, [Propagation of chaos and hydrodynamic description for topological models](https://www.aimsciences.org/article/doi/10.3934/krm.2024010), Kinetic and Related models, Vol. 18, No. 1, 19-34, (2025).
 1. P. Degond, M. Pulvirenti, S. Rossi, [Propagation of chaos for topological interactions by a coupling technique](https://ems.press/journals/rlm/articles/13341435), Rendiconti Lincei. Matematica e applicazioni,
 Vol. 34, No. 3, 641–655, (2023).
 1. D. Benedetto, E. Caglioti, S. Rossi, [Comparison between the Cauchy problem
