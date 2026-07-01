@@ -24,11 +24,11 @@ author:
   avatar           : "io.jpg"
   name             : "Stefano Rossi"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher in Mathematical Physics"
-  location         : "Zurich, Switzerland"
-  employer         : "ETH Zurich"
+  bio              : "Researcher in Mathematical Physics"
+  location         : "Roma, Italy"
+  employer         : "Sapienza Università di Roma"
   uri              : # URL
-  email            : "stefano.rossi@math.ethz.ch" 
+  email            : "stefano.rossi2@uniroma1.it" 
 
   # Academic websites
   arxiv            :  http://arxiv.org/a/rossi_s_2 
