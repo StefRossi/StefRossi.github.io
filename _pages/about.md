@@ -22,7 +22,7 @@ Preprints and Publications
 
 1. M. Duerinckx, B. Geshkovski, S. Rossi, [Kinetic theory for Transformers and the lost-in-the-middle phenomenon](https://arxiv.org/abs/2605.09213), (2026).
 1. A. Gagnebin, M. Iacobelli, A. Rege, S. Rossi, [From relativistic Vlasov-Maxwell to electron-MHD in the quasineutral regime](https://arxiv.org/abs/2505.11428), (2025).
-1. T. Paul, S. Rossi, E. Trélat, [Multi-agent systems with multiple-wise interaction: Propagation of chaos and macroscopic limit](https://www.ljll.fr/trelat/fichiers/multiplewise.pdf), (2025).
+1. T. Paul, S. Rossi, E. Trélat, [Infinite-wise interactions: mean-field and graph limits for multiple-wise distinguishable agent systems](https://www.ljll.fr/trelat/fichiers/multiplewise.pdf), (2025).
 1. M. Iacobelli, S. Rossi, K. Widmayer, [On the stability of vacuum in the screened
 Vlasov-Poisson equation](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.70426), Journal of the London Mathematical Society, Vol. 113, No. 1, (2026).
 1. D. Benedetto, E. Caglioti, A. Gagnebin, M. Iacobelli, S. Rossi, [Scattering problem for Vlasov-type equations on the d-dimensional torus with Gevrey data](https://ems.press/journals/aihpc/articles/14298910), Annales de l'Institut Henri Poincaré C Analyse Non Linéaire, Vol. 43, No. 4, 835-881, (2026).
