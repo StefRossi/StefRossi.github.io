@@ -20,7 +20,7 @@ My CV is available [here](https://stefrossi.github.io/files/CV_Rossi_Stefano.pdf
 Preprints and Publications 
 ======
 
-1. M. Duerinckx, B. Geshkovski, S. Rossi, [Kinetic theory of Transformers and the lost-in-the-middle phenomenon](https://arxiv.org/abs/2605.09213), (2026).
+1. M. Duerinckx, B. Geshkovski, S. Rossi, [Kinetic theory for Transformers and the lost-in-the-middle phenomenon](https://arxiv.org/abs/2605.09213), (2026).
 1. A. Gagnebin, M. Iacobelli, A. Rege, S. Rossi, [From relativistic Vlasov-Maxwell to electron-MHD in the quasineutral regime](https://arxiv.org/abs/2505.11428), (2025).
 1. T. Paul, S. Rossi, E. Trélat, [Multi-agent systems with multiple-wise interaction: Propagation of chaos and macroscopic limit](https://www.ljll.fr/trelat/fichiers/multiplewise.pdf), (2025).
 1. M. Iacobelli, S. Rossi, K. Widmayer, [On the stability of vacuum in the screened
