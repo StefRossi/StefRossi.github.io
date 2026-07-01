@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a junior researcher (RTDa) in Mathematical Physics at the [Department of Mathematics "Guido Castelnuovo"](https://www.mat.uniroma1.it/en) of [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), where I am a member of the ERC project *KiLim*, led by [Sergio Simonella](https://www.sergiosimonella.com/).
+I am currently a junior researcher (RTDa) in Mathematical Physics at the [Department of Mathematics "Guido Castelnuovo"](https://www.mat.uniroma1.it/en) of [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), where I am a member of the ERC project *KiLiM*, led by [Sergio Simonella](https://www.sergiosimonella.com/).
 
 From September 2023 to February 2026, I was a postdoctoral researcher in Zurich, first affiliated with the [Institute of Mathematics](https://www.math.uzh.ch/en/home) of the [University of Zurich](https://www.uzh.ch/en.html) and later with the [Department of Mathematics](https://math.ethz.ch/) of [ETH Zurich](https://ethz.ch/de.html). During this period, I worked under the supervision of [Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/home) and [Klaus Widmayer](https://www.math.uzh.ch/en/people?semId=43&key1=32674&L=1).
 
